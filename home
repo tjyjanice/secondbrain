@@ -1,2 +1,25 @@
-Add index.html and style.css
-  
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>🌿 Janice's Diary</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>Janice's Second Brain</h1>
+
+    <div class="entry">
+      <h2>2025-07-17</h2>
+      <p>Today I learned how to set up my very first website using GitHub and Codespaces!</p>
+    </div>
+
+    <div class="entry">
+      <h2>2025-07-16</h2>
+      <p>I'm starting a new journey where I’ll record what I learn each day</p>
+    </div>
+
+  </div>
+</body>
+</html>
